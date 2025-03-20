@@ -1,0 +1,14 @@
+identifier: vulpes_majora_v1
+name: vulpes_majora_v1
+type: mcu
+arch: arm
+flash: 8092
+ram: 264
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+supported:
+  - i2c
+  - spi
+  - serial
