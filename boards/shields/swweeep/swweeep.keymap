@@ -53,7 +53,7 @@
             bindings = <
     &kp Q        &kp W        &kp E       &kp R         &lt NUMLFT T                                  &lt NUMRHT J  &kp L        &kp U         &kp Y       &kp SEMI
     &kp A        &kp S        &kp D       &kp F         &kp G                                         &kp M         &hs RSHIFT N &hm RALT E    &hm RGUI I  &hm RCTL O
-    &kp Z        &kp X        &kp C       &kp D         &kp V                                         &kp K         &kp H        &kp COMMA     &kp DOT     &kp FSLH
+    &kp Z        &kp X        &kp C       &kp V         &kp B                                         &kp K         &kp H        &kp COMMA     &kp DOT     &kp FSLH
                                           &kp DEL       &lt NAV RET  &lt FUNC TAB    &lt MEDIA BSPC   &lt SYM SPACE &kp SQT
             >;
         };
