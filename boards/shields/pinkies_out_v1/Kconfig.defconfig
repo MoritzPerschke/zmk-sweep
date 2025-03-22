@@ -1,9 +1,0 @@
-# Copyright (c) 2021 The ZMK Contributors
-# SPDX-License-Identifier: MIT
-
-if SHIELD_PINKIES_OUT_V1
-
-config ZMK_KEYBOARD_NAME
-    default "pinkies out v1"
-
-endif
