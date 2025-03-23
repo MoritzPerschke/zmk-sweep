@@ -1,8 +1,9 @@
 # Current layout
 
-[!image](./images/pteron36.png)
+![image](./visualize/swweep_unified.png)
 
 generated using `zmk-viewer generate pteron36 -f swweeep.keymap`
+** I'll look into how to format this correctly later**
 # ZMK fingerpunch keyboards firmware
 
 The purpose of this repository is to house all the ZMK boards and shields associated with fingerpunch keyboards.
