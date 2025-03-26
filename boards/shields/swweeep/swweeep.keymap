@@ -55,7 +55,7 @@
     &kp Q        &kp W        &kp E       &kp R         &lt NUMRHT T                                   &lt NUMLFT Y  &kp U        &kp I         &kp O       &kp P
     &hm LCTL A   &hm LGUI S   &hm LALT D  &hs LSHIFT F  &kp G                                          &kp H         &hs RSHIFT J &hm RALT K    &hm RGUI L  &hm RCTL SEMI
     &kp Z        &kp X        &kp C       &kp V         &kp B                                          &kp N         &kp M        &kp COMMA     &kp DOT     &kp FSLH
-                                          &lt UMMOD DEL       &lt NAV RET  &lt FUNC TAB           &kp BSPC   &lt SYM SPACE &lt MEDIA SQT
+                                          &lt UNMOD DEL       &lt NAV RET  &lt FUNC TAB           &kp BSPC   &lt SYM SPACE &lt MEDIA SQT
             >;
         };
 
